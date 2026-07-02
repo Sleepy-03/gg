@@ -118,7 +118,7 @@
             "enabled": true,
             "cashToSpend": 100000,
             "upgrader": {
-                "enabled": true,
+                "enabled": false,
                 "traits": {
                     "efficiency": true,
                     "duration": false,
@@ -188,7 +188,7 @@
         }
     },
     "giveawayJoiner": {
-        "enabled": false,
+        "enabled": true,
         "channelsToJoin": [
             1099453684691243098,
             1168797748343099444,
